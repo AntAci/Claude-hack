@@ -1,0 +1,17 @@
+{
+  "id": "case_001",
+  "source_type": "gp_followup_message",
+  "scenario": "chest_infection",
+  "patient_profile": {
+    "age_group": "adult",
+    "setting": "GP surgery",
+    "country": "UK"
+  },
+  "raw_note": "Pt reviewed re productive cough, temp + fatigue x5 days. Chest clear enough for home mx. Likely LRTI. Start amoxicillin 500mg tds for 5 days. Encourage fluids + rest. Paracetamol prn for fever/discomfort. If temp persists >48 hrs after starting abx, or cough/breathing worsens, book GP review. Seek urgent help via 111/999 if SOB at rest, chest pain, confusion or unable to keep fluids down.",
+  "tags": [
+    "infection",
+    "antibiotics",
+    "red_flags",
+    "follow_up"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "case_003",
+  "source_type": "gp_after_visit_summary",
+  "scenario": "migraine",
+  "patient_profile": {
+    "age_group": "adult",
+    "setting": "GP surgery",
+    "country": "UK"
+  },
+  "raw_note": "Reviewed for recurrent headaches in keeping w migraine. Neuro exam reassuring today. Start sumatriptan 50mg at onset of migraine, may rpt once after 2 hrs if needed (max 2 tabs in 24 hrs). Can take with ibuprofen if tolerated. Avoid dehydration + try to identify triggers. Arrange routine GP f/u if freq increasing or meds not helping. Urgent assessment needed if sudden worst-ever headache, new weakness/numbness, confusion, seizure or visual loss not settling.",
+  "tags": [
+    "migraine",
+    "headache",
+    "medication_instructions",
+    "warning_signs"
+  ]
+}

@@ -1,16 +1,16 @@
-# CareClear
+# ClaudeCare
 
-CareClear is an AI-powered patient understanding assistant that helps people make sense of confusing medical information after they leave a clinic, hospital, pharmacy, or appointment.
+ClaudeCare is an AI-powered patient understanding assistant that helps people make sense of confusing medical information after they leave a clinic, hospital, pharmacy, or appointment.
 
 Many patients receive discharge summaries, medication instructions, referral letters, or treatment plans written in dense clinical language. Even when care is technically available, people often struggle to understand what they were told, what matters most, what to do next, and when they should seek further help.
 
-CareClear is designed to close that gap.
+ClaudeCare is designed to close that gap.
 
-Rather than trying to diagnose illness or replace clinicians, CareClear focuses on comprehension, follow-through, and safer self-management. A user can paste in discharge notes, prescription instructions, or other medical text, and the system transforms that information into a structured, plain-language explanation.
+Rather than trying to diagnose illness or replace clinicians, ClaudeCare focuses on comprehension, follow-through, and safer self-management. A user can paste in discharge notes, prescription instructions, or other medical text, and the system transforms that information into a structured, plain-language explanation.
 
 ## What It Does
 
-CareClear turns complex medical instructions into a patient-friendly care plan. Core outputs include:
+ClaudeCare turns complex medical instructions into a patient-friendly care plan. Core outputs include:
 
 - A plain-English summary of the source text
 - Immediate actions the user should take next
@@ -18,7 +18,7 @@ CareClear turns complex medical instructions into a patient-friendly care plan. 
 - Red-flag symptoms requiring escalation
 - Suggested follow-up questions for a doctor or pharmacist
 
-To reinforce comprehension, CareClear can also include a teach-back step: short questions to confirm the user understood key instructions.
+To reinforce comprehension, ClaudeCare can also include a teach-back step: short questions to confirm the user understood key instructions.
 
 ## Why This Matters
 
@@ -29,11 +29,11 @@ Healthcare can be inaccessible because of complexity and jargon, not only cost o
 - Avoidable complications
 - Unnecessary anxiety
 
-CareClear addresses this by helping patients understand healthcare information in practical, actionable terms.
+ClaudeCare addresses this by helping patients understand healthcare information in practical, actionable terms.
 
 ## Target Users
 
-CareClear is designed for patients and carers who need help interpreting post-appointment or post-treatment information, including:
+ClaudeCare is designed for patients and carers who need help interpreting post-appointment or post-treatment information, including:
 
 - People leaving hospital with discharge paperwork
 - People receiving complicated prescription instructions
@@ -72,7 +72,7 @@ Input example:
 
 - A patient pastes a note saying they have a mild infection, should complete a 7-day antibiotic course, stay hydrated, book GP follow-up if symptoms worsen, and seek urgent care for chest pain or shortness of breath.
 
-CareClear output example:
+ClaudeCare output example:
 
 - Explains the diagnosis in plain language
 - Emphasizes completing antibiotics as prescribed
@@ -82,7 +82,7 @@ CareClear output example:
 
 ## Ethical Approach
 
-CareClear is designed to support patient understanding, not clinical judgment.
+ClaudeCare is designed to support patient understanding, not clinical judgment.
 
 Key safeguards:
 
@@ -106,7 +106,7 @@ Used responsibly, this improves access to healthcare information without replaci
 
 ## Vision
 
-CareClear aims to make healthcare communication understandable by default. Future directions may include:
+ClaudeCare aims to make healthcare communication understandable by default. Future directions may include:
 
 - Multi-language support
 - Carer-specific explanation modes
@@ -117,4 +117,4 @@ The core idea remains simple: when people understand their healthcare instructio
 
 ## Disclaimer
 
-CareClear does not diagnose, prescribe, or replace professional medical advice. If symptoms worsen, instructions are unclear, or urgent symptoms appear, users should contact a qualified healthcare professional or emergency services immediately.
+ClaudeCare does not diagnose, prescribe, or replace professional medical advice. If symptoms worsen, instructions are unclear, or urgent symptoms appear, users should contact a qualified healthcare professional or emergency services immediately.

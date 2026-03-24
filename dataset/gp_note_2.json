@@ -1,0 +1,17 @@
+{
+  "id": "case_002",
+  "source_type": "discharge_message",
+  "scenario": "urinary_tract_infection",
+  "patient_profile": {
+    "age_group": "adult",
+    "setting": "urgent treatment centre",
+    "country": "UK"
+  },
+  "raw_note": "Seen today with dysuria/frequency, urine dip suggestive of UTI. D/c home. Nitrofurantoin MR 100mg bd x3 days. Maintain good oral fluids. May use paracetamol prn. If symptoms not improving after abx course, or fever/flank pain develops, contact GP same day. Attend urgent care/A&E if vomiting, rigors, severe back pain or feeling very unwell.",
+  "tags": [
+    "uti",
+    "medication",
+    "self_care",
+    "escalation"
+  ]
+}

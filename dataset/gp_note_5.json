@@ -1,0 +1,17 @@
+{
+  "id": "case_005",
+  "source_type": "post_procedure_discharge",
+  "scenario": "minor_skin_procedure",
+  "patient_profile": {
+    "age_group": "adult",
+    "setting": "day procedure clinic",
+    "country": "UK"
+  },
+  "raw_note": "Post excision today, d/c home well. Keep dressing clean/dry for 48 hrs, then change daily. Avoid heavy lifting/strenuous activity for next few days. May take paracetamol for pain. If Steri-Strips present, leave in place until they fall off or remove after 7 days. Contact GP/practice nurse if increasing redness, swelling, discharge, fever or pain not controlled. Seek urgent help if wound opens significantly or bleeding does not stop with firm pressure.",
+  "tags": [
+    "wound_care",
+    "post_op",
+    "pain_relief",
+    "infection_signs"
+  ]
+}

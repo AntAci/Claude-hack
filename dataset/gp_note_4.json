@@ -1,0 +1,17 @@
+{
+  "id": "case_004",
+  "source_type": "asthma_review_message",
+  "scenario": "asthma_flare",
+  "patient_profile": {
+    "age_group": "young_adult",
+    "setting": "GP same day appointment",
+    "country": "UK"
+  },
+  "raw_note": "Seen w wheeze/SOB c/w mild asthma exacerbation, sats stable in clinic. Prednisolone 40mg od for 5 days. Continue salbutamol inhaler 2 puffs q4h prn and usual preventer regularly. Rest, fluids, avoid smoke/exertion until improved. Book asthma review with practice nurse in 1 wk. If needing blue inhaler more often than 4-hourly, unable to speak in full sentences, worsening breathlessness, drowsiness or lips blue -> call 999 / attend A&E.",
+  "tags": [
+    "asthma",
+    "steroids",
+    "inhaler",
+    "urgent_help"
+  ]
+}
