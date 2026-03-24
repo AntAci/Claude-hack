@@ -1,5 +1,7 @@
 {
   "id": "case_005",
+  "patient_name": "Ava Thompson",
+  "date_of_birth": "1974-09-18",
   "source_type": "post_procedure_discharge",
   "scenario": "minor_skin_procedure",
   "patient_profile": {

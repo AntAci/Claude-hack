@@ -1,5 +1,7 @@
 {
   "id": "case_001",
+  "patient_name": "Eleanor Shaw",
+  "date_of_birth": "2000-01-01",
   "source_type": "gp_followup_message",
   "scenario": "chest_infection",
   "patient_profile": {

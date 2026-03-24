@@ -1,5 +1,7 @@
 {
   "id": "case_003",
+  "patient_name": "Maya Clarke",
+  "date_of_birth": "1985-11-05",
   "source_type": "gp_after_visit_summary",
   "scenario": "migraine",
   "patient_profile": {

@@ -1,5 +1,7 @@
 {
   "id": "case_004",
+  "patient_name": "Oliver Reed",
+  "date_of_birth": "2001-01-30",
   "source_type": "asthma_review_message",
   "scenario": "asthma_flare",
   "patient_profile": {
