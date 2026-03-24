@@ -1,0 +1,48 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# Build outputs
+dist/
+build/
+coverage/
+.next/
+out/
+target/
+
+# Test/cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Local runtime data
+*.pid
+*.seed
+*.pid.lock
+tmp/
+temp/
