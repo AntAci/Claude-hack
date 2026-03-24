@@ -8,6 +8,9 @@ ClaudeCare is designed to close that gap.
 
 Rather than trying to diagnose illness or replace clinicians, ClaudeCare focuses on comprehension, follow-through, and safer self-management. The app provides a two-sided workflow: a staff-facing dashboard where GPs or healthcare workers can transform clinical notes into plain English, and a patient-facing voice assistance page where patients can read their care plan and ask questions via an AI voice agent.
 
+<img width="1792" height="1120" alt="Screenshot 2026-03-24 at 19 17 59" src="https://github.com/user-attachments/assets/d8ff277e-b167-4c57-8a20-78266b6815e1" />
+<img width="1792" height="1120" alt="Screenshot 2026-03-24 at 19 18 30" src="https://github.com/user-attachments/assets/9b8c3922-c4af-47e2-916b-8b05438cedbe" />
+
 ## What It Does
 
 ClaudeCare turns complex medical instructions into a patient-friendly care plan. The structured output includes:
